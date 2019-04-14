@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooleemiiv.robertpenner.com/sitemap.xml
